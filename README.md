@@ -1,11 +1,10 @@
 # Master-thesis-AI4forensics
 Repository with all Jupyter notebooks for the Master thesis: AI 4 Forensics: Evaluating the performance of open-source state-of-the-art speaker comparison systems.
-The following datasets are required to run all code:
+The following datasets are required to run all code. All datasets should be extracted in the same folder as the notebooks. 
 - UCLA variability
-- Commonvoice Dutch corpus version
+- Commonvoice Dutch corpus version 17.0
 - FRIDA telephone
 - Wyred
-All datasets should be extracted in the same folder as the notebooks. 
 
 The notebooks and their functions:
 - Exploratory data analysis: code and comments generating the tables and visualizations for the EDA.
